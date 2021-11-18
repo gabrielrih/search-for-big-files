@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+search-for-big-files
 
 # Test binary, built with `go test -c`
 *.test
